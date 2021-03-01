@@ -3,9 +3,9 @@
 1. Discuss the purpose of this database in the context of the startup, Sparkify, and their analytical goals.
     - The relational database is constructed where Sparkify data can be easily queried from and is curated to what song users are listening to.
     - With the increase in users, migrating to a data lake allows Sparktify the opportunities to not only continue increasing scalability, but also:
-        - make use of various data values, formats, and structures
-        - apply advanced analytics
-        - save financially through columnar storage using parquet
+        - Make use of various data values, formats, and structures
+        - Apply advanced analytics
+        - Save financially through columnar storage using parquet
 
 
 2. State and justify your database schema design and ETL pipeline.
