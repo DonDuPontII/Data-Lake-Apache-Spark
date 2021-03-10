@@ -28,7 +28,7 @@
 2. Dl.cfg
     - A space to populate your AWS access key ID and secret key
 
-### How to run the process
+### Process execution steps
 1. Create an EMR cluster
 2. Create an Amazon S3 bucket where tables can be written to 
 3. Populate dl.cfg parameters
