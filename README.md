@@ -20,15 +20,15 @@
     - Utilizing fact and dimension tables work together to form organized data models that are intuitive to query.
 
 
-### Files contianed in the repository
+### Files contained in the repository
 1. ETL.py
     - Reads in Sparktify files from Amazon S3
     - Extracts column headers and data for each table
     - Writes tables back to a customizable S3 bucket
-2. dl.cfg
+2. Dl.cfg
     - A space to populate your AWS access key ID and secret key
 
-### How to run process
+### How to run the process
 1. Create an EMR cluster
 2. Create an Amazon S3 bucket where tables can be written to 
 3. Populate dl.cfg parameters
